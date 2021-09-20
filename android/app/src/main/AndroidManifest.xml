@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.randonfact">
+    package="com.example.random_facts">
    <application
-        android:label="randonfact"
+        android:label="random_facts"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

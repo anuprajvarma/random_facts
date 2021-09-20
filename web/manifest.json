@@ -1,6 +1,6 @@
 {
-    "name": "randonfact",
-    "short_name": "randonfact",
+    "name": "random_facts",
+    "short_name": "random_facts",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

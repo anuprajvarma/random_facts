@@ -1,4 +1,4 @@
-package com.example.randonfact
+package com.example.random_facts
 
 import io.flutter.embedding.android.FlutterActivity
 
